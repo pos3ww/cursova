@@ -1,0 +1,15 @@
+C:\Users\yoiyo\source\repos\CursovaRobota\CursovaRobota\bin\Debug\net6.0\CursovaRobota.exe
+C:\Users\yoiyo\source\repos\CursovaRobota\CursovaRobota\bin\Debug\net6.0\CursovaRobota.deps.json
+C:\Users\yoiyo\source\repos\CursovaRobota\CursovaRobota\bin\Debug\net6.0\CursovaRobota.runtimeconfig.json
+C:\Users\yoiyo\source\repos\CursovaRobota\CursovaRobota\bin\Debug\net6.0\CursovaRobota.dll
+C:\Users\yoiyo\source\repos\CursovaRobota\CursovaRobota\bin\Debug\net6.0\CursovaRobota.pdb
+C:\Users\yoiyo\source\repos\CursovaRobota\CursovaRobota\obj\Debug\net6.0\CursovaRobota.csproj.AssemblyReference.cache
+C:\Users\yoiyo\source\repos\CursovaRobota\CursovaRobota\obj\Debug\net6.0\CursovaRobota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoiyo\source\repos\CursovaRobota\CursovaRobota\obj\Debug\net6.0\CursovaRobota.AssemblyInfoInputs.cache
+C:\Users\yoiyo\source\repos\CursovaRobota\CursovaRobota\obj\Debug\net6.0\CursovaRobota.AssemblyInfo.cs
+C:\Users\yoiyo\source\repos\CursovaRobota\CursovaRobota\obj\Debug\net6.0\CursovaRobota.csproj.CoreCompileInputs.cache
+C:\Users\yoiyo\source\repos\CursovaRobota\CursovaRobota\obj\Debug\net6.0\CursovaRobota.dll
+C:\Users\yoiyo\source\repos\CursovaRobota\CursovaRobota\obj\Debug\net6.0\refint\CursovaRobota.dll
+C:\Users\yoiyo\source\repos\CursovaRobota\CursovaRobota\obj\Debug\net6.0\CursovaRobota.pdb
+C:\Users\yoiyo\source\repos\CursovaRobota\CursovaRobota\obj\Debug\net6.0\CursovaRobota.genruntimeconfig.cache
+C:\Users\yoiyo\source\repos\CursovaRobota\CursovaRobota\obj\Debug\net6.0\ref\CursovaRobota.dll

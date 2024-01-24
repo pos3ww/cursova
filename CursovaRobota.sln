@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursovaRobota", "CursovaRobota\CursovaRobota.csproj", "{9027D872-1473-44EE-AA9F-77806FED7329}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9027D872-1473-44EE-AA9F-77806FED7329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9027D872-1473-44EE-AA9F-77806FED7329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9027D872-1473-44EE-AA9F-77806FED7329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9027D872-1473-44EE-AA9F-77806FED7329}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {217BD953-9FEF-4315-9486-34292A6C570A}
+	EndGlobalSection
+EndGlobal
